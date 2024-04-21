@@ -1,0 +1,12 @@
+{
+  "name": "magic-atm-machine",
+  "version": "1.0.0",
+  "description": "This is atm machine ",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Afshan",
+  "license": "MIT"
+}
